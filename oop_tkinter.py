@@ -13,7 +13,7 @@ from tkinter import messagebox
 from tkinter.messagebox import askyesno
 
 
-admin = 'vikas007'
+admin = 'admin123'
 
 app = wx.App()
 Window_size = wx.GetDisplaySize()
